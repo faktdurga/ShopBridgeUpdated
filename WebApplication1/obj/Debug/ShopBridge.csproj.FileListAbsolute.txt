@@ -1,0 +1,6 @@
+F:\ShopBridge\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\ShopBridge\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\ShopBridge\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ShopBridge\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\ShopBridge\WebApplication1\WebApplication1\obj\Debug\ShopBridge.csproj.CoreCompileInputs.cache
+F:\ShopBridge\WebApplication1\WebApplication1\obj\Debug\ShopBridge.csprojAssemblyReference.cache
